@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fileprovider" translatable="false">com.groupec.cleanarchitecturesampleapp.fileprovider</string>
+    <string name="cancel_upload">Cancel upload</string>
+    <string name="upload_to_server">Upload to server</string>
+    <string name="download_item">Download</string>
+    <string name="delete_item">Delete</string>
+    <string name="create_date">"Added Date: %s"</string>
+    <string name="confirm_delete_message">Confirm deletion of: %s?</string>
+</resources>

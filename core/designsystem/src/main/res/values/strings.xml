@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_button">Back</string>
+    <string name="required_field">This field is required.</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="select_file">Select File</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Confirm</string>
+</resources>

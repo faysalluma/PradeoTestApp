@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_home_title">Home</string>
+    <string name="search_product_place_holder">Search here</string>
+    <string name="success_message">Attachments added successfully</string>
+    <string name="delete_message">Attachments deleted successfully</string>
+    <string name="download_message">Attachment successfully downloaded and saved in folder Downloads</string>
+    <string name="downloads_in_progress">Downloads in progress…</string>
+</resources>
